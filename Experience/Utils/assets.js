@@ -2,7 +2,7 @@ export default  [
     {
         name: "room",
         type: "glbModel",
-        path: "/models/Vas16.glb"
+        path: "${import.meta.env.BASE_URL}/models/Vas16.glb"
     }
 ]
 
